@@ -4,5 +4,5 @@
 # zet-pyr
 # google-admin
 # github-teacher
-# Dr. Christina Ertural 
+# Dr. Christina Ertural x2
 # tomdemeyere
